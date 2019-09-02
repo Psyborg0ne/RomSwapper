@@ -1,5 +1,5 @@
 # RomSwapper
-A basic python GUI to change the active rom on arcade cabinets I built running retropie on RPis
+A basic python GUI to change the active rom on arcade cabinets I built running retropie (mame-libretro) on RPis
 ## Usage
 1. Install python3 (if not already installed)
 2. Install pysftp module `pip3 install pysftp`
